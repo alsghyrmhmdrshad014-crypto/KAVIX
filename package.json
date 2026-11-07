@@ -1,0 +1,1 @@
+{ "name": "kavix", "version": "1.0.0", "private": true, "description": "KAVIX: a 3D block games platform", "scripts": { "start": "node server/server.js", "test": "node tests/test_phase1.js && node tests/test_phase2.js && node tests/test_phase3.js && node tests/test_phase4.js && node tests/test_server.js" } }
